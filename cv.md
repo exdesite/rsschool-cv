@@ -38,10 +38,6 @@ function multiply(a, b){
 
 ## Courses:
 
-- Udemy [Java Basics] and [Java Core] сourses
-- [JavaRush] course (level 22 out of 40)
-- Udemy [Spring Basics course]
-- Udemy [SQL course]
 - Udemy [Web-Dev course]
 - Udemy [JavaScript and React Native сourses] (in progress)
 
@@ -51,3 +47,7 @@ function multiply(a, b){
 
 - English A2
 - Russian (native)
+
+[web-dev course]: https://www.udemy.com/course/webdeveloper/
+[javascript and react native сourses]: https://www.udemy.com/course/javascript_full/
+
